@@ -4,7 +4,7 @@ maintainer_email 'jj@chef.io'
 license 'Apache 2'
 description 'Installs/Configures bazaar'
 long_description 'Installs/Configures bazaar'
-version '1.0.0'
+version '1.0.1'
 
 depends 'yum'
 depends 'apt'
